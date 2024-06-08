@@ -1,0 +1,11 @@
+{
+  "name": "sentencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sales.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}

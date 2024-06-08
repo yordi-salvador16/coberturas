@@ -1,0 +1,11 @@
+{
+  "name": "desicion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alquiler.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}

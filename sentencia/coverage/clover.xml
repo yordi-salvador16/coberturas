@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717806180951" clover="3.2.0">
+  <project timestamp="1717806180951" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="14" coveredelements="14" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="sales.js" path="C:\Users\salva\OneDrive\Documentos\SEPTIMO CICLO -ve por ellos tigre\PRUEBAS DE SOTFWARE\Prueba de ruta basica\Entrega\sentencia\sales.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="17" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
